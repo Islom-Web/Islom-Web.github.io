@@ -753,6 +753,10 @@ template {
 	column-gap: 20px
 }
 
+.about__skills-item .title_fz14{
+	font-size: 12px;
+}
+
 .about__skills-circle {
 	position: relative;
 	padding: 15px 0 0 15px
