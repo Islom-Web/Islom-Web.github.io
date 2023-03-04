@@ -663,10 +663,10 @@ template {
 
 .menu__social {
 	position: absolute;
-	bottom: 50px;
+	bottom: 80px;
 	left: 50%;
 	transform: translateX(-50%);
-	width: 90px;
+	width: 120px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center
@@ -1548,7 +1548,7 @@ template {
 	}
 }
 
-@media(max-height:500px) {
+@media(max-height:550px) {
 	.menu__social {
 		display: none
 	}
