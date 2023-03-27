@@ -1201,6 +1201,11 @@ template {
 	line-height: 21px
 }
 
+.contacts__btn:hover {
+	transition: .5s all ease;
+	color: #fff;
+}
+
 .contacts__policy {
 	display: flex;
 	align-items: center
